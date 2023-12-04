@@ -1,0 +1,12 @@
+USAGE
+-----------------------
+Requires x86-64 Linux, GNU assembler, ld and make.
+
+- Run `make` to generate the part1 assembly.
+- Pass the input file to stdin; output is in stdout
+  (e.g. ./part1 < input > output)
+- The output will be the sum of all numbers as a raw 64-bit binary number.
+  Use hexdump or some other tool to parse this out in base-10 decimal.
+
+Use part2.sh for the second part of the challenge, i.e.:
+./part2.sh < input | ./part1 > output
