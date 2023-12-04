@@ -1,0 +1,4 @@
+USAGE
+-----------------------
+Pass the input file to stdin. Output will be in stdout.
+(e.g. ./part1.py < input > output)
