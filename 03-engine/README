@@ -1,0 +1,5 @@
+USAGE
+-----------------------
+- Run `make` to generate the part1 and part2 assemblies.
+- Pass the input file as an argument. Output is in stdout
+  (e.g. ./part1 input_filename > output)
