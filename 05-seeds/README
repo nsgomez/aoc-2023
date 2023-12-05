@@ -1,0 +1,13 @@
+USAGE
+-----------------------
+Use kotlinc to compile each file into a .jar file, then
+run the program by passing the input filename as an
+argument, which should look something like this:
+
+    kotlinc part1.kt -d part1.jar
+    java -jar part1.jar input.txt
+
+But I wouldn't know to be honest, I hacked this together
+in IntelliJ IDEA on Windows instead of my Linux VM and
+just kept pressing the Run button. (My friend said it's
+not a race, but a wise man once told me, "Gotta go fast")
