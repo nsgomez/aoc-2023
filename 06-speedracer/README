@@ -1,0 +1,5 @@
+USAGE
+-----------------------
+The inputs for this problem are small, so they're embedded in the source for
+each part. Edit the main.rs file in each directory to use your input. Then
+use cargo run to get your results.
